@@ -73,14 +73,14 @@ You can also use this application as a model to start developing your own applic
 6. Follow the instructions until you reach the "Application" step.
 7. You will find the "Application ID" and "SDK Key".
 8. Copy the "Application ID" value.<br />
-<img width="1677" alt="Screenshot 2024-04-18 at 3 36 22 PM" src="https://github.com/AyaHamou/TestRepo/assets/167426288/6fbb8ed1-9466-43d8-a219-459b459a6a9b"> <br />
+<img width="1677" alt="Screenshot 2024-04-18 at 3 36 22 PM" src="https://github.com/Vodafone/HelloV2XWorld-iOS/assets/167426288/887d9e62-9dfa-4e59-a919-369dba967778"><br />
 9. Open the "HelloV2XWorld" project in xcode.<br />
 10. Open "Enums" class and paste the copied "Application ID" in the **username** attribute inside "credentials" enum.<br /> 
 11. Back to the portal.<br /> 
 12. Copy the "SDK Key" value.<br />
-<img width="1735" alt="Screenshot 2024-04-18 at 3 38 08 PM" src="https://github.com/AyaHamou/TestRepo/assets/167426288/d4cd23f8-e3ee-47ce-a381-bf35cb8ad1a9"> <br />
+<img width="1735" alt="Screenshot 2024-04-18 at 3 38 08 PM" src="https://github.com/Vodafone/HelloV2XWorld-iOS/assets/167426288/6ce4fab7-c522-4a7b-be3c-ac2e2f5a1632"> <br />
 13. Back to the xcode project and paste it in the **password** attribute inside "credentials" enum.<br /> 
-<img width="1532" alt="Screenshot 2024-04-18 at 4 07 40 PM" src="https://github.com/AyaHamou/TestRepo/assets/167426288/aa48fedc-0b73-40b7-beca-fd970038f54f">
+<img width="1532" alt="Screenshot 2024-04-18 at 4 07 40 PM" src="https://github.com/Vodafone/HelloV2XWorld-iOS/assets/167426288/230fbade-3bdd-4461-bbff-de87aceae3b8"> <br />
 
 ### Build the HelloV2XWorld application
 
