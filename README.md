@@ -64,6 +64,23 @@ You can also use this application as a model to start developing your own applic
 * Choose "Add Others" then "Add Files" and select to add the pre-downloaded "VodafoneV2X.xcframework".
 <img width="1426" alt="Screenshot 2023-02-15 at 5 13 50 PM" src="https://user-images.githubusercontent.com/124599387/219068916-3a921a60-3a4b-4ec6-8cdb-e794c6e35f6f.png">
 
+### Set credintials for the application:
+1. Open the Portal.
+2. Login with your account.
+3. Navigate to the "Applications" tab found in the top.
+4. Click on "Test application".
+5. You will see a new popup appear.
+6. Follow the instructions until you reach the "Application" step.
+7. You will find the "Application ID" and "SDK Key".
+8. Copy the "Application ID" value.<br />
+<img width="1677" alt="Screenshot 2024-04-18 at 3 36 22 PM" src="https://github.com/AyaHamou/TestRepo/assets/167426288/6fbb8ed1-9466-43d8-a219-459b459a6a9b"> <br />
+9. Open the "HelloV2XWorld" project in xcode.<br />
+10. Open "Enums" class and paste the copied "Application ID" in the **username** attribute inside "credentials" enum.<br /> 
+11. Back to the portal.<br /> 
+12. Copy the "SDK Key" value.<br />
+<img width="1735" alt="Screenshot 2024-04-18 at 3 38 08 PM" src="https://github.com/AyaHamou/TestRepo/assets/167426288/d4cd23f8-e3ee-47ce-a381-bf35cb8ad1a9"> <br />
+13. Back to the xcode project and paste it in the **password** attribute inside "credentials" enum.<br /> 
+<img width="1532" alt="Screenshot 2024-04-18 at 4 07 40 PM" src="https://github.com/AyaHamou/TestRepo/assets/167426288/aa48fedc-0b73-40b7-beca-fd970038f54f">
 
 ### Build the HelloV2XWorld application
 
@@ -97,7 +114,8 @@ You can also use this application as a model to start developing your own applic
 <img width="978" alt="Screenshot 2023-02-15 at 5 29 30 PM" src="https://user-images.githubusercontent.com/124599387/219073535-4c4a736f-a3d0-4b78-9beb-2540c1cd1e31.png">
 
 * You can change your station type by accessing the setting page
-<img width="978" alt="Screenshot 2023-02-15 at 5 29 38 PM" src="https://user-images.githubusercontent.com/124599387/219073630-0802fe3e-20ba-4403-9ab7-99fdd0da5b6c.png">
+<img width="978" alt="219073630-0802fe3e-20ba-4403-9ab7-99fdd0da5b6c" src="https://github.com/Vodafone/HelloV2XWorld-iOS/assets/167426288/7b6afcf0-cf84-48ea-a3a6-0301b3e225b4">
+
 
 ## Version History
 
