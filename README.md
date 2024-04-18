@@ -64,7 +64,7 @@ You can also use this application as a model to start developing your own applic
 * Choose "Add Others" then "Add Files" and select to add the pre-downloaded "VodafoneV2X.xcframework".
 <img width="1426" alt="Screenshot 2023-02-15 at 5 13 50 PM" src="https://user-images.githubusercontent.com/124599387/219068916-3a921a60-3a4b-4ec6-8cdb-e794c6e35f6f.png">
 
-### Set credentials for the application:
+### Set the credentials in the application:
 1. Open the Portal.
 2. Login with your account.
 3. Navigate to the "Applications" tab found in the top.
